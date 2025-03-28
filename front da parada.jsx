@@ -1,4 +1,10 @@
 import React from 'react';
+import Header from "./components/Header";
+import Sobre from "./components/Sobre";
+import Projetos from "./components/Projetos";
+import Contato from "./components/Contato";
+import Footer from "./components/Footer";
+import "./App.css";
 
 const Portfolio = () => {
   const projects = [
