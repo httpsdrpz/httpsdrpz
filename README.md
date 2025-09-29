@@ -1,1 +1,7 @@
-Work in the first project in HTML5, React!....
+Founder Ravit Software
+
+Stacks -
+Java, NestJS, GO & Rust.
+
+
+145 hours of codding, 
